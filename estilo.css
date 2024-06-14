@@ -1,0 +1,41 @@
+body {
+  background-color: aqua;
+}
+
+header {
+  width: 500px;
+  height: 250px;
+  background-color: tomato;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: blueviolet;
+}
+
+.item {
+  color: red;
+}
+
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 40px;
+  margin-left: 40px;
+  margin: 40px 60px 80px 100px;
+  margin: 120px 200px;
+  margin: 20px 30px 150;
+}
+
+.caja {
+  width: 200px;
+  height: 150px;
+  background-color: blueviolet;
+  margin: 80px;
+  border: solid 5px;
+  color: #fff;
+  padding-top: 30px;
+  padding-bottom: 120px;
+}
